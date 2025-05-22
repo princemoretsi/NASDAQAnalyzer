@@ -1,1 +1,2 @@
-* @streamlit/community-cloud
+streamlit run /path/to/NASDAQAnalyzer/app.py
+
