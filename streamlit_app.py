@@ -1,6 +1,3 @@
-import streamlit as st
+[general]
+ALPHA_VANTAGE_API_KEY = "NDALZZK55C750HGR"
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
